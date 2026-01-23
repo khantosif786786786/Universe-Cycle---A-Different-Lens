@@ -24,7 +24,7 @@ Contributor is anonymous, and too lazy to add anything more than this. Have fun 
 
 ## 2. NOTES
 
-**a.** The largest anomaly in the CMB, the Eridanus Supervoid, appears to be located to the "South" in this framework. This appears to represent the collapse-phase 'Return Velocity' in that sector toward (0,0,0) that is exceeding the local measured speed of light creating a region of "Infinite Redshift" as observed from our coordinates. Observational irregularities and mathematical mismatches are expected due to intervening extra-cosmic gravitational/temporal distortions and our local 14.33x time dilation
+**a.** The largest anomaly in the CMB, the Eridanus Supervoid, appears to be located to the "South" in this framework. This appears to represent the collapse-phase 'Return Velocity' in that sector toward (0,0,0) that is exceeding the local measured speed of light creating a region of "Infinite Redshift" as observed from our coordinates. Observational irregularities and mathematical mismatches are expected due to intervening extra-cosmic gravitational/temporal distortions and our local 14.33x time dilation.
 
 **b.** Expected Total Universe Earth-Centric Runtime = 26.963441321100917431192660550459 Gyr
 
