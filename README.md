@@ -24,13 +24,13 @@ Contributor is anonymous, and too lazy to add anything more than this. Have fun 
 
 ## 2. NOTES
 
-**a.** The largest anomaly in the CMB, the Eridanus Supervoid, appears to be located to the "South" in this framework. This appears to represent the collapse-phase 'Return Velocity' in that sector that is exceeding the local measured speed of light creating a region of "Infinite Redshift" as observed from our coordinates.
+**a.** The largest anomaly in the CMB, the Eridanus Supervoid, appears to be located to the "South" in this framework. This appears to represent the collapse-phase 'Return Velocity' in that sector toward (0,0,0) that is exceeding the local measured speed of light creating a region of "Infinite Redshift" as observed from our coordinates. Observational irregularities and mathematical mismatches are expected due to intervening extra-cosmic gravitational/temporal distortions and our local 14.33x time dilation
 
-**b.** Total Universe Earth Centric Runtime = 26.963441321100917431192660550459 Gyr
+**b.** Expected Total Universe Earth-Centric Runtime = 26.963441321100917431192660550459 Gyr
 
-**c.** Universe-Centric Raw Runtime: ~1.8821 Gyr without the influence of local processing cost and EM friction
+**c.** Expected Total Universe-Centric Raw Runtime: ~1.8821 Gyr without the influence of local processing cost and EM friction
 
-**d.** Current Earth Centric Cosmic Time Location: 59.7325% heading back with positive tetration to The Big Crunch.
+**d.** Current Earth Centric Cosmic Time Location: 59.7325% heading back with positive tetration to The Big Crunch
 
 **e.** Maximum universe 82.5 Gly radius at t=T/2
 
@@ -40,10 +40,11 @@ Contributor is anonymous, and too lazy to add anything more than this. Have fun 
 
 **h.** Maximum System Bandwidth (Universe-Centric Cu): 4,294,967,296 m/s. Local Measured c (299,792,458 m/s) is the result of EM Friction and Processing Cost at our current coordinates.
 
-**i.** Our Location if the centre of the universe is South (the entire outer shell is North):
-- X = -1.63 billion light-years
-- Y = -15.49 billion light-years
-- Z = +17.30 billion light-years
+**i.** Our Location relative to cosmic center (0,0,0):
+
+- Distance: 17.30 billion light-years North of center
+- Return velocity: ~480,000,000 m/s toward (0,0,0) (guesstimate based on available cosmological data and collapse dynamics)
+- Collapse progress: 59.73% complete"
 
 **j.** The Big F**king Hole at Zero (BFHZ) at (0,0,0) is a supermassive black hole with core Mass: ~3.14 × 10²⁰ M☉, Event Horizon: 0.098 Gly radius, 0.15% of current universe radius, and ~48 billion times more massive than M87.
 
