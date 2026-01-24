@@ -24,29 +24,36 @@ Contributor is anonymous, and too lazy to add anything more than this. Have fun 
 
 ## 2. NOTES
 
-**a.** The largest anomaly in the CMB, the Eridanus Supervoid, appears to be located to the "South" in this framework. This appears to represent the collapse-phase 'Return Velocity' in that sector toward (0,0,0) that is exceeding the local measured speed of light creating a region of "Infinite Redshift" as observed from our coordinates. Observational irregularities and mathematical mismatches are expected due to intervening extra-cosmic gravitational/temporal distortions and our local 14.33x time dilation.
+**a.** There are only two coordinates in the universe sphere as there is no left or right, east or west. The only two coordinates that are applicable from any perspective inside this sphere is the center which we label "South" as coordinate 0, and the outer shell which we label "North" as coordinate 1. using radial distance from 0 we can map any point in the universe using meters and seconds, which becomes contaminated by time and space distortions anyway
 
-**b.** Expected Total Universe Earth-Centric Runtime = 26.963441321100917431192660550459 Gyr
+**b.** The largest anomaly in the CMB, the Eridanus Supervoid, appears to be located to the "South" of us in this framework. This appears to represent the collapse-phase 'Return Velocity' in that sector toward coordinate 0 that is exceeding the local measured speed of light creating a region of "extreme redshift gradient" as observed from our coordinates. Observational irregularities and mathematical mismatches are expected due to intervening extra-cosmic gravitational/temporal distortions and our local 14.33x time dilation
 
-**c.** Expected Total Universe-Centric Raw Runtime: ~1.8821 Gyr without the influence of local processing cost and EM friction
+**c.** Expected Total Universe Earth-Centric Runtime = 26.963441321100917431192660550459 Gyr
 
-**d.** Current Earth Centric Cosmic Time Location: 59.7325% heading back with positive tetration to The Big Crunch
+**d.** Within the cosmic year, Earth centric location is at 59.7325%
 
 **e.** Maximum universe 82.5 Gly radius at t=T/2
 
 **f.** Current universe 66.5 Gly radius
 
-**g.** Our observable universe 13.8 Gly radius
+**g.** Our observable radius 46.5 Gly (comoving)
 
-**h.** Maximum System Bandwidth (Universe-Centric Cu): 4,294,967,296 m/s. Local Measured c (299,792,458 m/s) is the result of EM Friction and Processing Cost at our current coordinates.
+**h.** Maximum System Bandwidth (Universe-Centric Cu): 4,294,967,296 m/s. Local Measured c (299,792,458 m/s) is the result of EM Friction and Processing Cost at our current coordinates
 
-**i.** Our Location relative to cosmic center (0,0,0):
+**i.** Our Location relative to cosmic center coordinate 0
 
+- These calculations are averages by available cosmological data, and we accept that time, space and seen/unseen cosmic clusters would distort all calculations
 - Distance: 17.30 billion light-years North of center
-- Return velocity: ~480,000,000 m/s toward (0,0,0) (guesstimate based on available cosmological data and collapse dynamics)
+- Return velocity: ~480,000,000 m/s toward 0 (guesstimate based on available cosmological data and collapse dynamics)
 - Collapse progress: 59.73% complete"
 
-**j.** The Big F**king Hole at Zero (BFHZ) at (0,0,0) is a supermassive black hole with core Mass: ~3.14 × 10²⁰ M☉, Event Horizon: 0.098 Gly radius, 0.15% of current universe radius, and ~48 billion times more massive than M87.
+**j.** The Big F**king Hole at Zero (BFHZ) at coordinate 0
+
+- These calculations are averages by available cosmological data
+- A supermassive black hole with core Mass: ~3.14 × 10²⁰ M☉
+- Event Horizon: 0.098 Gly radius
+- 0.15% of current universe radius
+- ~48 billion times more massive than M87
 
 ---
 
@@ -62,7 +69,9 @@ Contributor is anonymous, and too lazy to add anything more than this. Have fun 
 
 ---
 
-**Note on Computational Convergence:** While the mathematical alignment of the 26.96 Gyr runtime with a 2³² bandwidth limit suggests the universe operates as a computer, the causality is reversed. The universe is not a computer; rather, modern 32-bit architecture is a primitive human mimicry of the universe's own fundamental laws. We converged upon these architectures because they are the most efficient way to process information within the constraints of EM Friction and Processing Cost inherent to the hardware of the Planck Epoch.
+**Note on Computational Convergence:**
+
+- While the mathematical alignment of the 26.96 Gyr runtime with a 2³² bandwidth limit suggests the universe operates as a computer, the causality is reversed. The universe is not a computer; rather, modern 32-bit architecture is a primitive human mimicry of the universe's own fundamental laws. We converged upon these architectures because they are the most efficient way to process information within the constraints of EM Friction and Processing Cost inherent to the hardware of the Planck Epoch.
 
 ---
 
