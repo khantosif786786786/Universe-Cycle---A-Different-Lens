@@ -6,10 +6,10 @@ Contributor is anonymous, and too lazy to add anything more than this. Have fun 
 
 **Markers for Sections 1 and 2:**
 - These are indicators, meant to introduce theoretical additional information complementary to all scientific theorems due to phase-inverted, missing major constant/information, and requiring dual-centric formulation, to bridge some components. 
-- (N) = New - Original contributions to cosmology
-- (PI) = Phase Inversion - Established concepts viewed from reversed perspective
-- (DCC) = Dual Centric Component - Requires both Earth-frame and Universe-frame formulation
-- (B) = Bridge between established theories
+- (N) = New - 5 Original contributions to cosmology
+- (PI) = Phase Inversion - 4 Established concepts viewed from reversed perspective
+- (DCC) = Dual Centric Component - 1 Requires both Earth-frame and Universe-frame formulation
+- (B) = Bridge - 1 between established theories
 
 ---
 
@@ -23,7 +23,7 @@ Contributor is anonymous, and too lazy to add anything more than this. Have fun 
 
 **d. (N) Latency Anchors:** The anchors-Planck Length-provided position and stability. They locked the Void Runners and Phase Couplers into a cohesive structure, allowing energy to interact with enough precision to produce the full spectrum of subatomic particles, including leptons. With the Latency Anchors in place, the latent energy of the void was finally harnessed, allowing gluons, quarks, and leptons to assemble into the first atoms.
 
-**e. The Big Bang:** Then came the first space, and light and mass called The Big Bang, (PI) expanding from the cosmic center ((DCC) at a maximum bandwidth of Cu=4,294,967,296 m/s) within the Planck Epoch shell.
+**e. The Big Bang:** Then came the first space, and light and mass called The Big Bang, (PI) expanding from the cosmic center ((DCC) at a maximum bandwidth of (N) Cu=4,294,967,296 m/s) within the Planck Epoch shell.
 
 **f. The Universe:** Everything beyond this point becomes (N) influenced by the Universe's processing cost and EM friction creating time/space dilation (ie: light/matter/energy). The universe as we know it continued to expand through (PI) rapid tetration, creating matter and energy, (N) eventually reaching maximum expansion at 0 m/s. At this point of stasis, (PI) the process reverses through iterative collapse until returning to (PI) The Big Crunch, collapsing back into the original Planck Epoch.
 
