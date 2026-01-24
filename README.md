@@ -1,23 +1,18 @@
 # Universe Cycle - A Different Lens
 
+**Intent:** This framework doesn't claim existing science is wrong. It offers complementary components that may help resolve persistent mysteries. The goal is to reduce friction in understanding, not create controversy.
 
+**Contribution Breakdown:**
+- 5 New concepts (N): Original substrate mechanics
+- 4 Phase Inversions (PI): Established data, reversed perspective
+- 1 Dual-Centric formulation (DCC): Reference frame reconciliation
+- 1 Bridge (B): Connection between existing theories
 
-**Acknowledgment:** Terminology is used as conceptual metaphor, not as literal physical claim. This system does not claim that established theorems are wrong—only that some may be phase-inverted, one major constant is missing from current models, some require dual-centric formulation, and certain bridging components are proposed.
+**Total: 11 components, only 5 genuinely new. The rest reorganize existing knowledge.**
 
-Contributor is anonymous, and too lazy to add anything more than this. Have fun with this though. Drop this in to your AI and test it yourself, but beware of misframed or misunderstood problems.
+This is offered as-is for computational verification and collaborative exploration.
 
-**How to Read This (And Why Most Will Get It Wrong): Markers for Sections 1 and 2:**
-- These are indicators, meant to introduce theoretical additional information complementary to all scientific theorems due to phase-inverted, missing major constant/information, and requiring dual-centric formulation, to bridge some components. 
-- (N) = New - 5 Original contributions to cosmology
-- (PI) = Phase Inversion - 4 Established concepts viewed from reversed perspective
-- (DCC) = Dual Centric Component - 1 Requires both Earth-frame and Universe-frame formulation
-- (B) = Bridge - 1 between established theories
-
-**Before you proceed:**
-
-- If you’re looking for equations, stop here. This is a conceptual framework.
-- If you’re looking for certainty, stop here. This is a hypothesis generator.
-- If you’re willing to test predictions, keep reading.
+— Pattern Mapper: Retired. Anonymous logic/math articulator. Ignores noise, complexity, and gatekeepers. Seeks equilibrium via shortest path. Open-source and as/is only. 2026
 
 ---
 
