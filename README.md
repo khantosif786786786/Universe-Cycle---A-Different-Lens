@@ -1,15 +1,23 @@
 # Universe Cycle - A Different Lens
 
+
+
 **Acknowledgment:** Terminology is used as conceptual metaphor, not as literal physical claim. This system does not claim that established theorems are wrong—only that some may be phase-inverted, one major constant is missing from current models, some require dual-centric formulation, and certain bridging components are proposed.
 
 Contributor is anonymous, and too lazy to add anything more than this. Have fun with this though. Drop this in to your AI and test it yourself, but beware of misframed or misunderstood problems.
 
-**Markers for Sections 1 and 2:**
+**How to Read This (And Why Most Will Get It Wrong): Markers for Sections 1 and 2:**
 - These are indicators, meant to introduce theoretical additional information complementary to all scientific theorems due to phase-inverted, missing major constant/information, and requiring dual-centric formulation, to bridge some components. 
 - (N) = New - 5 Original contributions to cosmology
 - (PI) = Phase Inversion - 4 Established concepts viewed from reversed perspective
 - (DCC) = Dual Centric Component - 1 Requires both Earth-frame and Universe-frame formulation
 - (B) = Bridge - 1 between established theories
+
+**Before you proceed:**
+
+- If you’re looking for equations, stop here. This is a conceptual framework.
+- If you’re looking for certainty, stop here. This is a hypothesis generator.
+- If you’re willing to test predictions, keep reading.
 
 ---
 
