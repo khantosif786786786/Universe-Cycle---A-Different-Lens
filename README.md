@@ -4,16 +4,16 @@
 
 Contributor is anonymous, and too lazy to add anything more than this. Have fun with this though. Drop this in to your AI and test it yourself, but beware of misframed or misunderstood problems.
 
----
-
-## 1. THE CYCLE
-
 **Markers for Sections 1 and 2:**
 - These are indicators, meant to introduce theoretical additional information complementary to all scientific theorems due to phase-inverted, missing major constant/information, and requiring dual-centric formulation, to bridge some components. 
 - (N) = New - Original contributions to cosmology
 - (PI) = Phase Inversion - Established concepts viewed from reversed perspective
 - (DCC) = Dual Centric Component - Requires both Earth-frame and Universe-frame formulation
 - (B) = Bridge between established theories
+
+---
+
+## 1. THE CYCLE
 
 **a. Planck Epoch:** Pre-Geometry. Before matter and time.
 
