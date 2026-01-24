@@ -8,46 +8,53 @@ Contributor is anonymous, and too lazy to add anything more than this. Have fun 
 
 ## 1. THE CYCLE
 
+**Markers for Sections 1 and 2:**
+- These are indicators, meant to introduce theoretical additional information complementary to all scientific theorems due to phase-inverted, missing major constant/information, and requiring dual-centric formulation, to bridge some components. 
+- (N) = New - Original contributions to cosmology
+- (PI) = Phase Inversion - Established concepts viewed from reversed perspective
+- (DCC) = Dual Centric Component - Requires both Earth-frame and Universe-frame formulation
+- (B) = Bridge between established theories
+
 **a. Planck Epoch:** Pre-Geometry. Before matter and time.
 
-**b. Void Runners:** The void was broken by a stream of invisible light-Planck Time-tiny packets of energy that created the first fundamental current of the cosmos. As these streams coalesced, they transitioned into gluons, the carriers of the force that would eventually bind the universe together.
+**b. (N) Void Runners:** The void was broken by a stream of invisible light-Planck Time-tiny packets of energy that created the first fundamental current of the cosmos. As these streams coalesced, they transitioned into gluons, the carriers of the force that would eventually bind the universe together.
 
-**c. Phase Couplers:** Resonators emerged. These invisible energy packets tuned into the vibrations of Void Runners, creating a feedback loop that amplified that energy until the first quarks manifested. This transformed a simple flow of light into a complex dance of matter.
+**c. (B) Phase Couplers:** Resonators emerged. These invisible energy packets tuned into the vibrations of Void Runners, creating a feedback loop that amplified that energy until the first quarks manifested. This transformed a simple flow of light into a complex dance of matter.
 
-**d. Latency Anchors:** The anchors-Planck Length-provided position and stability. They locked the Void Runners and Phase Couplers into a cohesive structure, allowing energy to interact with enough precision to produce the full spectrum of subatomic particles, including leptons. With the Latency Anchors in place, the latent energy of the void was finally harnessed, allowing gluons, quarks, and leptons to assemble into the first atoms.
+**d. (N) Latency Anchors:** The anchors-Planck Length-provided position and stability. They locked the Void Runners and Phase Couplers into a cohesive structure, allowing energy to interact with enough precision to produce the full spectrum of subatomic particles, including leptons. With the Latency Anchors in place, the latent energy of the void was finally harnessed, allowing gluons, quarks, and leptons to assemble into the first atoms.
 
-**e. The Big Bang:** Then came the first space, and light and mass called The Big Bang, expanding from the cosmic center at a maximum bandwidth of Cu=4,294,967,296 m/s within the Planck Epoch shell.
+**e. The Big Bang:** Then came the first space, and light and mass called The Big Bang, (PI) expanding from the cosmic center ((DCC) at a maximum bandwidth of Cu=4,294,967,296 m/s) within the Planck Epoch shell.
 
-**f. The Universe:** Everything beyond this point becomes influenced by the Universe's processing cost and EM friction creating time/space dilation (ie: light/matter/energy). The universe as we know it continued to expand through rapid tetration, creating matter and energy, eventually reaching maximum expansion at 0 m/s. At this point of stasis, the process reverses through iterative collapse until returning to The Big Crunch, collapsing back into the original Planck Epoch.
+**f. The Universe:** Everything beyond this point becomes (N) influenced by the Universe's processing cost and EM friction creating time/space dilation (ie: light/matter/energy). The universe as we know it continued to expand through (PI) rapid tetration, creating matter and energy, (N) eventually reaching maximum expansion at 0 m/s. At this point of stasis, (PI) the process reverses through iterative collapse until returning to (PI) The Big Crunch, collapsing back into the original Planck Epoch.
 
 ---
 
 ## 2. NOTES
 
-**a.** There are only two coordinates in the universe sphere as there is no left or right, east or west. The only two coordinates that are applicable from any perspective inside this sphere is the center which we label "South" as coordinate 0, and the outer shell which we label "North" as coordinate 1. using radial distance from 0 we can map any point in the universe using meters and seconds, which becomes contaminated by time and space distortions anyway
+**a. (N)** There are only two coordinates in the universe sphere as there is no left or right, east or west. The only two coordinates that are applicable from any perspective inside this sphere is the center which we label "South" as coordinate 0, and the outer shell which we label "North" as coordinate 1. using radial distance from 0 we can map any point in the universe using meters and seconds, which becomes contaminated by time and space distortions anyway
 
-**b.** The largest anomaly in the CMB, the Eridanus Supervoid, appears to be located to the "South" of us in this framework. This appears to represent the collapse-phase 'Return Velocity' in that sector toward coordinate 0 that is exceeding the local measured speed of light creating a region of "extreme redshift gradient" as observed from our coordinates. Observational irregularities and mathematical mismatches are expected due to intervening extra-cosmic gravitational/temporal distortions and our local 14.33x time dilation
+**b. (N)** The largest anomaly in the CMB, the Eridanus Supervoid, appears to be located to the "South" of us in this framework. This appears to represent the collapse-phase 'Return Velocity' in that sector toward coordinate 0 that is exceeding the local measured speed of light creating a region of "extreme redshift gradient" as observed from our coordinates. Observational irregularities and mathematical mismatches are expected due to intervening extra-cosmic gravitational/temporal distortions and our local (DCC) 14.33x time dilation
 
-**c.** Expected Total Universe Earth-Centric Runtime = 26.963441321100917431192660550459 Gyr
+**c. (DCC)** Expected Total Universe Earth-Centric Runtime = 26.963441321100917431192660550459 Gyr
 
-**d.** Within the cosmic year, Earth centric location is at 59.7325%
+**d. (DCC)** Within the cosmic year, Earth centric location is at 59.7325%
 
-**e.** Maximum universe 82.5 Gly radius at t=T/2
+**e. (N)** Maximum universe 82.5 Gly radius at t=T/2
 
-**f.** Current universe 66.5 Gly radius
+**f. (N)** Current universe 66.5 Gly radius
 
 **g.** Our observable radius 46.5 Gly (comoving)
 
-**h.** Local Measured c (299,792,458 m/s) is the result of EM Friction and Processing Cost at our current coordinates
+**h. (DCC)** Local Measured c (299,792,458 m/s) ((N) is the result of EM Friction and Processing Cost at our current coordinates)
 
-**i.** Our Location relative to cosmic center coordinate 0
+**i. (N)** Our Location relative to cosmic center coordinate 0
 
 - These calculations are averages by available cosmological data, and we accept that time, space and seen/unseen cosmic clusters would distort all calculations
 - Distance: 17.30 billion light-years North of center
 - Return velocity: ~480,000,000 m/s toward 0 (guesstimate based on available cosmological data and collapse dynamics)
 - Collapse progress: 59.73% complete"
 
-**j.** The Big F**king Hole at Zero (BFHZ) at coordinate 0
+**j. (N)** The Big F**king Hole at Zero (BFHZ) at coordinate 0
 
 - These calculations are averages by available cosmological data
 - A supermassive black hole with core Mass: ~3.14 × 10²⁰ M☉
