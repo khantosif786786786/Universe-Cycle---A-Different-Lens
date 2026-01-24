@@ -16,7 +16,7 @@ Contributor is anonymous, and too lazy to add anything more than this. Have fun 
 
 **d. Latency Anchors:** The anchors-Planck Length-provided position and stability. They locked the Void Runners and Phase Couplers into a cohesive structure, allowing energy to interact with enough precision to produce the full spectrum of subatomic particles, including leptons. With the Latency Anchors in place, the latent energy of the void was finally harnessed, allowing gluons, quarks, and leptons to assemble into the first atoms.
 
-**e. The Big Bang:** Then came the first space, and light and mass called The Big Bang, expanding from the cosmic center at a maximum bandwidth of 4,294,967,296 m/s within the Planck Epoch shell.
+**e. The Big Bang:** Then came the first space, and light and mass called The Big Bang, expanding from the cosmic center at a maximum bandwidth of Cu=4,294,967,296 m/s within the Planck Epoch shell.
 
 **f. The Universe:** Everything beyond this point becomes influenced by the Universe's processing cost and EM friction creating time/space dilation (ie: light/matter/energy). The universe as we know it continued to expand through rapid tetration, creating matter and energy, eventually reaching maximum expansion at 0 m/s. At this point of stasis, the process reverses through iterative collapse until returning to The Big Crunch, collapsing back into the original Planck Epoch.
 
@@ -38,7 +38,7 @@ Contributor is anonymous, and too lazy to add anything more than this. Have fun 
 
 **g.** Our observable radius 46.5 Gly (comoving)
 
-**h.** Maximum System Bandwidth (Universe-Centric Cu): 4,294,967,296 m/s. Local Measured c (299,792,458 m/s) is the result of EM Friction and Processing Cost at our current coordinates
+**h.** Local Measured c (299,792,458 m/s) is the result of EM Friction and Processing Cost at our current coordinates
 
 **i.** Our Location relative to cosmic center coordinate 0
 
